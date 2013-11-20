@@ -3,6 +3,6 @@
 *.pyc
 local_settings.py
 .python
-.python-version
-.DS_Store
-.sqlite3
+*.python-version
+*.DS_Store
+*.sqlite3
